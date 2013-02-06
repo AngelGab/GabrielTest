@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SuiteAll" duration-ms="12578" started-at="2013-02-05T12:44:36Z" finished-at="2013-02-05T12:44:49Z">
+    <groups>
+    </groups>
+    <test name="TestAll" duration-ms="12578" started-at="2013-02-05T12:44:36Z" finished-at="2013-02-05T12:44:49Z">
+      <class name="seleniumScripts.byndAutoTests">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="10935" started-at="2013-02-05T12:44:36Z" finished-at="2013-02-05T12:44:47Z">
+        </test-method>
+        <test-method status="PASS" signature="testDataProvider(java.lang.String, java.lang.String)" name="testDataProvider" duration-ms="115" started-at="2013-02-05T12:44:47Z" finished-at="2013-02-05T12:44:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Iphone 5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[by Apple]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="testDataProvider(java.lang.String, java.lang.String)" name="testDataProvider" duration-ms="1067" started-at="2013-02-05T12:44:47Z" finished-at="2013-02-05T12:44:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[BlackBerry]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[by BlackBerry RIM]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="testDataProvider(java.lang.String, java.lang.String)" name="testDataProvider" duration-ms="156" started-at="2013-02-05T12:44:49Z" finished-at="2013-02-05T12:44:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung Galaxy S3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[by Samsung]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="testDataProvider(java.lang.String, java.lang.String)" name="testDataProvider" duration-ms="100" started-at="2013-02-05T12:44:49Z" finished-at="2013-02-05T12:44:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[HTC 8X]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[by HTC]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="testDataProvider(java.lang.String, java.lang.String)" name="testDataProvider" duration-ms="64" started-at="2013-02-05T12:44:49Z" finished-at="2013-02-05T12:44:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nokia lumia 900]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[by Nokia]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
